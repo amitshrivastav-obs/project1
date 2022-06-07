@@ -14,6 +14,6 @@ you direction for **correct number**.
 5. give you result.
 6. It will finish only after your correct guess.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is project repository [a link](https://github.com/amitshrivastav-obs/project1).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is code page](https://github.com/amitshrivastav-obs/project1/blob/main/guessinggame.sh)
